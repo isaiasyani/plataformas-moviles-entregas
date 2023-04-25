@@ -1,16 +1,21 @@
 body{
-backgroud: #222; 
-color: #ee6; }
+background: #222; 
+color: #ee6; 
+}
 h1{
-text-aligh: center; }
+text-align: center; 
+}
 p {
-font-family: sans-serif; }
-h1, h2, h3{
-color:#eee; }
+font-family: sans-serif;
+}
+h1, h2, h3,h4,h5,h6{
+color:#eee; 
+}
 strong {
-border-bottom: 1px solid #fff; }
+border-bottom: 1px solid #fff; 
+}
 .the-force {
-backgroun-color:#444;
+background-color:#444;
 font-weight:bold;
 }
 .light-side{
@@ -28,18 +33,24 @@ padding-left:60px;
 u:nth-of-type(3) li:last-of-type{
 margin-top:20px;
 }
-h1, h2, h3{
+h1, h2, h3, h4,h5,h6{
 text-transform:uppercase;
 }
 p:first-of-type::first-line{
 color:#efe;
 }
-h1 hover{
-color:lightyellow;
+h1:hover{
+color:red;
 }
 a:visited{
 color:#999;
 }
 a:not([href]){
 font-style:italic;
+}
+li:nth-of-type(odd){
+	background-color: lightblue;
+}
+li:nth-of-type(even){
+	background-color: white;
 }
