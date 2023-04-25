@@ -49,8 +49,8 @@ a:not([href]){
 font-style:italic;
 }
 li:nth-of-type(odd){
-background-color: lightblue;
+  background-color: lightblue;
 }
 li:nth-of-type(even){
-background-color: white;
+  background-color: white;
 }
