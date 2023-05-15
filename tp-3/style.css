@@ -8,8 +8,18 @@ p#primer-parrafo{
  background-color: #CEE; 
 }
 p#primer-parrafo.parrafo em{
-background-color: #933;
+  color: #933;
 }
-p a{
- outline: 1px solid #333 
+body p a[href]{
+ outline: 1px solid #333; 
+}
+html body p.fuente.parrafo{
+  opacity: 100%;
+}
+html body p.fuente.parrafo{
+  color: #000 !important;
+}
+p span.complicado{
+  font-weight: bold;
+  color: #C62 !important;
 }
