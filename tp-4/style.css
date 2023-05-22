@@ -1,0 +1,53 @@
+@media screen and (min-width: 400px){
+    html body{
+        background-color: #234;
+    }
+}
+@media screen and (max-width: 800px){
+    h1{
+        text-align: center;
+    }
+}
+@media screen and (orientation: landscape){
+    body article{
+        max-width: 50ch;
+    }
+}
+@media screen and (min-height: 200px){
+    h1{
+        background-color: black;
+    }
+}
+@media print{
+    html p {
+        font-family: sans-serif;
+    }
+}
+@media (prefers-color-scheme:light){
+    html body, h1{
+        color: #111;
+        background-color: #DDD;
+    }
+}
+@media screen and (hover: none){
+    a{
+        background-color: #212;
+        padding:2px 5px ;
+    }
+}
+@media (min-width: 800px) and (max-width: 900px){
+    html img{
+        display: none;
+    }
+}
+@media (min-width: 200px) and (max-width: 400px){
+    figure img{
+        height: 400px;
+        object-fit: cover;
+    }
+}
+@media (resolution > 2dppx){
+    body article{
+       background-color: #667;
+    }
+}
