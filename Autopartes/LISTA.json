@@ -1,0 +1,170 @@
+[
+    {
+        "id": "1",
+        "nombre": "Embrague",
+        "descripcion": "Kit de embrague Falcon Sprint",
+        "precio": "20.000",
+        "marca": "ford"
+    },
+    {
+        "id": "2",
+        "nombre": "Opticas",
+        "descripcion": "Opticas Delanteras de Ford Focus",
+        "precio": "40.000",
+        "marca": "ford"
+    },
+    {
+        "id": "3",
+        "nombre": "Mangueras",
+        "descripcion": "Kit de Mangueras de Refrigueracion",
+        "precio": "10.000",
+        "marca": "ford"
+    },
+    {
+        "id": "4",
+        "nombre": "TuboGas",
+        "descripcion": "Tubo de Gas de 60lts con Galleta de 5ta Generacion",
+        "precio": "400.000",
+        "marca": "ford"
+    },
+    {
+        "id": "5",
+        "nombre": "Filtro",
+        "descripcion": "Filtro Aceite de Ford Ranger 3.0",
+        "precio": "10.000",
+        "marca": "ford"
+    },
+    {
+        "id": "6",
+        "nombre": "BombaFreno",
+        "descripcion": "Bomba Freno de Ford Escort 94",
+        "precio": "20.000",
+        "marca": "ford"
+    },
+    {
+        "id": "7",
+        "nombre": "Amortiguadores",
+        "descripcion": "Kit de Amortiguadores Regulables Universal",
+        "precio": "120.000",
+        "marca": "ford"
+    },
+    {
+        "id": "8",
+        "nombre": "Neumatica",
+        "descripcion": "Kit de Neumatica Universal para Ford",
+        "precio": "350.000",
+        "marca": "ford"
+    },
+    {
+        "id": "9",
+        "nombre": "Freno",
+        "descripcion": "Kit de Pastillas + Discos de Freno Corsa",
+        "precio": "45.000",
+        "marca": "chevro"
+    },
+    {
+        "id": "10",
+        "nombre": "Amortiguadores1",
+        "descripcion": "Kit de Amortiguadores Regulables Universal",
+        "precio": "120.000",
+        "marca": "chevro"
+    },
+    {
+        "id": "11",
+        "nombre": "Neumatica1",
+        "descripcion": "Kit de Neumatica Universal para Ford",
+        "precio": "350.000",
+        "marca": "chevro"
+    },
+    {
+        "id": "12",
+        "nombre": "Distribuicion",
+        "descripcion": "Kit de Amortiguadores Regulables Universal",
+        "precio": "15.000",
+        "marca": "chevro"
+    },
+    {
+        "id": "13",
+        "nombre": "BombaNafta",
+        "descripcion": "Kit de Amortiguadores Regulables Universal",
+        "precio": "140.000",
+        "marca": "chevro"
+    },
+    {
+        "id": "14",
+        "nombre": "Volante",
+        "descripcion": "Volante Chevrolet Cruze",
+        "precio": "90.000",
+        "marca": "chevro"
+    },
+    {
+        "id": "15",
+        "nombre": "Espejitos",
+        "descripcion": "Volante Chevrolet Cruze",
+        "precio": "20.000",
+        "marca": "chevro"
+    },
+    {
+        "id": "16",
+        "nombre": "Neumatico",
+        "descripcion": "Neumatico Pirelli 175/65 Rod.14",
+        "precio": "70.000",
+        "marca": "chevro"
+    },
+    {
+        "id": "17",
+        "nombre": "Cubiertas",
+        "descripcion": "Cubiertas Rod.13 PRO NEC",
+        "precio": "150.000",
+        "marca": "compe"
+    },
+    {
+        "id": "18",
+        "nombre": "Embrague1",
+        "descripcion": "Embrague para Competicion de Fiat",
+        "precio": "210.000",
+        "marca": "compe"
+    },
+    {
+        "id": "19",
+        "nombre": "Levas",
+        "descripcion": "Levas para Competicion de Fiat",
+        "precio": "85.000",
+        "marca": "compe"
+    },
+    {
+        "id": "20",
+        "nombre": "Radiador",
+        "descripcion": "Radiador para Competicion TC-PROCAR",
+        "precio": "350.000",
+        "marca": "compe"
+    },
+    {
+        "id": "21",
+        "nombre": "Intercooler",
+        "descripcion": "Intercooler HKS Universal",
+        "precio": "465.000",
+        "marca": "compe"
+    },
+    {
+        "id": "22",
+        "nombre": "Llantas",
+        "descripcion": "Llantas Henkei Rod.13",
+        "precio": "400.000",
+        "marca": "compe"
+    },
+    {
+        "id": "23",
+        "nombre": "Turbo",
+        "descripcion": "Turbo Master Class 70 Racing R343/1",
+        "precio": "600.000",
+        "marca": "compe"
+    },
+    {
+        "id": "24",
+        "nombre": "Volante1",
+        "descripcion": "Turbo Master Class 70 Racing R343/1",
+        "precio": "110.000",
+        "marca": "compe"
+    }
+]
