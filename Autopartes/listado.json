@@ -64,29 +64,29 @@
     },
     {
         "id": "10",
-        "nombre": "Amortiguadores1",
+        "nombre": "Amortiguadores",
         "descripcion": "Kit de Amortiguadores Regulables Universal",
         "precio": "120.000",
         "marca": "chevro"
     },
     {
         "id": "11",
-        "nombre": "Neumatica1",
-        "descripcion": "Kit de Neumatica Universal para Ford",
+        "nombre": "Neumatica",
+        "descripcion": "Kit de Neumatica Universal",
         "precio": "350.000",
         "marca": "chevro"
     },
     {
         "id": "12",
         "nombre": "Distribuicion",
-        "descripcion": "Kit de Amortiguadores Regulables Universal",
+        "descripcion": "Kit de Distribuicion de Corsa 1.6",
         "precio": "15.000",
         "marca": "chevro"
     },
     {
         "id": "13",
         "nombre": "BombaNafta",
-        "descripcion": "Kit de Amortiguadores Regulables Universal",
+        "descripcion": "Bomba de Nafta Completa",
         "precio": "140.000",
         "marca": "chevro"
     },
@@ -100,7 +100,7 @@
     {
         "id": "15",
         "nombre": "Espejitos",
-        "descripcion": "Volante Chevrolet Cruze",
+        "descripcion": "Par de Espejitos Corsa",
         "precio": "20.000",
         "marca": "chevro"
     },
@@ -120,7 +120,7 @@
     },
     {
         "id": "18",
-        "nombre": "Embrague1",
+        "nombre": "Embrague",
         "descripcion": "Embrague para Competicion de Fiat",
         "precio": "210.000",
         "marca": "compe"
@@ -163,7 +163,7 @@
     {
         "id": "24",
         "nombre": "Volante1",
-        "descripcion": "Turbo Master Class 70 Racing R343/1",
+        "descripcion": "Volante Competicion Acero Alivianado 350mm",
         "precio": "110.000",
         "marca": "compe"
     }
