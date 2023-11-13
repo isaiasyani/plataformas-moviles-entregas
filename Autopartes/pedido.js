@@ -16,7 +16,7 @@ function consultarAutoparte(autoparteId) {
         })
         .catch(error => {
             console.error("Error al obtener datos de la API:", error);
-            alert("Error al obtener datos de la API. Inténtalo nuevamente.");
+            alert("Hubo un error. Inténtalo nuevamente.");
         });
 }
 
